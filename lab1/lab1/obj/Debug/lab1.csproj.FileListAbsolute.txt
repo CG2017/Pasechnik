@@ -1,0 +1,10 @@
+D:\Buzz\КГ\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Buzz\КГ\lab1\lab1\bin\Debug\lab1.exe
+D:\Buzz\КГ\lab1\lab1\bin\Debug\lab1.pdb
+D:\Buzz\КГ\lab1\lab1\bin\Debug\DotNetUtilities.Wpf.dll
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.Form.resources
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.exe
+D:\Buzz\КГ\lab1\lab1\obj\Debug\lab1.pdb

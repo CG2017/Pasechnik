@@ -1,0 +1,7 @@
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\x64\Release\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\x64\Release\BitmapColorSubstitution.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\BitmapColorSubstitution.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\BitmapColorSubstitution.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\BitmapColorSubstitution.csproj.GenerateResource.Cache
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\BitmapColorSubstitution.pdb

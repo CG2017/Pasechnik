@@ -1,0 +1,4 @@
+D:\Dropbox\source\3k\6s\kg\lab6\lab6\lab6\bin\Debug\lab6.exe.config
+D:\Buzz\КГ\lab6\lab6\lab6\obj\Debug\lab6.Lab6.resources
+D:\Buzz\КГ\lab6\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Buzz\КГ\lab6\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache

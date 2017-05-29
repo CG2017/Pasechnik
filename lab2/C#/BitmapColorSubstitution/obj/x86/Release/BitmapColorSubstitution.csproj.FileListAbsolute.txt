@@ -1,0 +1,14 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\bin\Release\BitmapColorSubstitution.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\bin\Release\BitmapColorSubstitution.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\Release\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\Release\BitmapColorSubstitution.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.csproj.GenerateResource.Cache
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Release\BitmapColorSubstitution.pdb

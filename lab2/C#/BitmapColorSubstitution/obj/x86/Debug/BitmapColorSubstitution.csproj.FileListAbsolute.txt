@@ -1,0 +1,15 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\bin\Debug\BitmapColorSubstitution.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\bin\Debug\BitmapColorSubstitution.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapColorSubstitution\BitmapColorSubstitution\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\Debug\BitmapColorSubstitution.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\Debug\BitmapColorSubstitution.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.csprojResolveAssemblyReference.cache
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x86\Debug\BitmapColorSubstitution.csproj.GenerateResource.Cache

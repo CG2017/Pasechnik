@@ -1,0 +1,71 @@
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.Native.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\MetadataExtractor.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\XmpCore.dll
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\MetadataExtractor.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\XmpCore.xml
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\lab4.Form1.resources
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\lab4.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\lab4.csproj.GenerateResource.Cache
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Image info.exe.config
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Image info.exe
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\bin\x64\Debug\Image info.pdb
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\Image info.exe
+D:\Dropbox\source\3k\6s\kg\lab4\lab4\lab4\obj\x64\Debug\Image info.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Image info.exe.config
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\Image info.exe
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\Image info.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.Native.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Image info.exe
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Image info.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\MetadataExtractor.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\XmpCore.dll
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\MetadataExtractor.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\bin\x64\Debug\XmpCore.xml
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\lab4.Form1.resources
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\lab4.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\github_labs\lab4\lab4\obj\x64\Debug\lab4.csproj.GenerateResource.Cache
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\lab4.Form1.resources
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\lab4.Properties.Resources.resources
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\lab4.csproj.GenerateResource.Cache
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.Native.dll
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Image info.exe.config
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Image info.exe
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Image info.pdb
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.dll
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\MetadataExtractor.dll
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\XmpCore.dll
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Magick.NET-Q8-x64.xml
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\MetadataExtractor.xml
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Buzz\КГ\lab4\lab4\bin\x64\Debug\XmpCore.xml
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\Image info.exe
+D:\Buzz\КГ\lab4\lab4\obj\x64\Debug\Image info.pdb

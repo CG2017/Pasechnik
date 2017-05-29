@@ -1,0 +1,16 @@
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\x64\Release\ColorReplacer.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\bin\x64\Release\ColorReplacer.pdb
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.csproj.GenerateResource.Cache
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.exe
+D:\Dropbox\source\3k\6s\kg\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\bin\x64\Release\ColorReplacer.exe
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\bin\x64\Release\ColorReplacer.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.MainForm.resources
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.Properties.Resources.resources
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.csproj.GenerateResource.Cache
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.exe
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\obj\x64\Release\ColorReplacer.pdb
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\bin\x64\Release\ColorReplacer.exe.config
+D:\Dropbox\source\3k\6s\kg\github_labs\lab2\C#\BitmapColorSubstitution\bin\x64\Release\System.Numerics.Vectors.dll
